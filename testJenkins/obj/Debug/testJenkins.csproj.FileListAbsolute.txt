@@ -68,3 +68,4 @@ F:\jenkinDemo\testJenkins\testJenkins\obj\Debug\testJenkins.csprojResolveAssembl
 F:\jenkinDemo\testJenkins\testJenkins\obj\Debug\testJenkins.dll
 F:\jenkinDemo\testJenkins\testJenkins\obj\Debug\testJenkins.pdb
 F:\jenkinDemo\testJenkins\testJenkins\bin\testJenkins.exe.config
+F:\jenkinDemo\testJenkins\testJenkins\bin\Debug\testJenkins.exe.config
