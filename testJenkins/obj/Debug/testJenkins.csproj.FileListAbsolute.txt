@@ -67,3 +67,4 @@ F:\jenkinDemo\testJenkins\testJenkins\bin\Microsoft.Owin.Security.MicrosoftAccou
 F:\jenkinDemo\testJenkins\testJenkins\obj\Debug\testJenkins.csprojResolveAssemblyReference.cache
 F:\jenkinDemo\testJenkins\testJenkins\obj\Debug\testJenkins.dll
 F:\jenkinDemo\testJenkins\testJenkins\obj\Debug\testJenkins.pdb
+F:\jenkinDemo\testJenkins\testJenkins\bin\testJenkins.exe.config
